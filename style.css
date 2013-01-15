@@ -45,6 +45,12 @@ p{
   text-align:center;
 }
 
+a{
+  color:inherit;
+  font-weight:bold;
+  text-decoration:none;
+}
+
 p.justify{
   text-align:justify;
 }
